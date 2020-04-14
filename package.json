@@ -1,0 +1,23 @@
+{
+  "name": "smiley-hooks",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanudasa/smiley-hooks.git"
+  },
+  "author": "hanuman.dasa@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanudasa/smiley-hooks/issues"
+  },
+  "homepage": "https://github.com/hanudasa/smiley-hooks#readme",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "lodash": "^4.17.15"
+  }
+}
